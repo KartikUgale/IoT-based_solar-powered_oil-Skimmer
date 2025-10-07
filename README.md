@@ -6,8 +6,8 @@ This project presents an **IoT-enabled, solar-powered oil skimmer** designed to 
   <img src="imgs/Oil_Skimmer_Model/Screenshot_2023-11-18_225641.png" width="300">
   <img src="imgs/Oil_Skimmer_Model/Screenshot_2023-11-18_185839.png" width="260">
 </div>
----
 
+---
 ## ⚙️ System Description
 The **oil skimmer** works on the principle of **adhesion**, where oil sticks to a rotating belt or disk and is then scraped off into a collection tank.  
 The device uses **solar energy** to power an **Arduino-based control system** that drives DC motors for propulsion, steering, and oil collection.
